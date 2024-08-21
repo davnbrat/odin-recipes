@@ -1,1 +1,1 @@
-This is a basic recipe website with html only.
+This is a basic recipe website.
