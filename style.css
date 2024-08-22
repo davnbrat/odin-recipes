@@ -1,20 +1,15 @@
 *{
-   
+
 }
 
 .logo{
-    background-color: rgba(240, 233, 233, 0.973)
-}
+    height: 40px;
+    width: 40px;
+    margin-left: 490px;
+    background-color: white;
 
-.recipetitle{
-    background-color: rgba(240, 233, 233, 0.973);
-    text-align: center;
-    height: auto;
-    color:black;
-    font-size: 30px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 10px;
-}
+} 
+
 
 
 .title{
@@ -30,3 +25,31 @@
    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
+div {
+    display: inline-block;
+}
+
+#recipe{
+    margin-bottom: 50px;
+    
+}
+
+.recipe1{
+    margin: 10px;
+    display: block;
+    padding: 20px;
+    width: 250px;
+    height: 5px;
+    margin-left: 20px;
+    border-radius: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+
+
+
+.titled{
+    margin-left: 115px;
+    width: 160px;
+}
